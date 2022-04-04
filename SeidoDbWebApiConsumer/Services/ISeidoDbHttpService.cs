@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using SeidoDbWebApiConsumer.Models;
-
 using NecklaceModels;
 
 namespace SeidoDbWebApiConsumer.Services
